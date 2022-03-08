@@ -1,0 +1,16 @@
+/home/sirjalves/Desktop/cursos/dioSeeries/dioSeries/bin/Debug/net5.0/dioSeries
+/home/sirjalves/Desktop/cursos/dioSeeries/dioSeries/bin/Debug/net5.0/dioSeries.deps.json
+/home/sirjalves/Desktop/cursos/dioSeeries/dioSeries/bin/Debug/net5.0/dioSeries.runtimeconfig.json
+/home/sirjalves/Desktop/cursos/dioSeeries/dioSeries/bin/Debug/net5.0/dioSeries.runtimeconfig.dev.json
+/home/sirjalves/Desktop/cursos/dioSeeries/dioSeries/bin/Debug/net5.0/dioSeries.dll
+/home/sirjalves/Desktop/cursos/dioSeeries/dioSeries/bin/Debug/net5.0/ref/dioSeries.dll
+/home/sirjalves/Desktop/cursos/dioSeeries/dioSeries/bin/Debug/net5.0/dioSeries.pdb
+/home/sirjalves/Desktop/cursos/dioSeeries/dioSeries/obj/Debug/net5.0/dioSeries.csproj.AssemblyReference.cache
+/home/sirjalves/Desktop/cursos/dioSeeries/dioSeries/obj/Debug/net5.0/dioSeries.GeneratedMSBuildEditorConfig.editorconfig
+/home/sirjalves/Desktop/cursos/dioSeeries/dioSeries/obj/Debug/net5.0/dioSeries.AssemblyInfoInputs.cache
+/home/sirjalves/Desktop/cursos/dioSeeries/dioSeries/obj/Debug/net5.0/dioSeries.AssemblyInfo.cs
+/home/sirjalves/Desktop/cursos/dioSeeries/dioSeries/obj/Debug/net5.0/dioSeries.csproj.CoreCompileInputs.cache
+/home/sirjalves/Desktop/cursos/dioSeeries/dioSeries/obj/Debug/net5.0/dioSeries.dll
+/home/sirjalves/Desktop/cursos/dioSeeries/dioSeries/obj/Debug/net5.0/ref/dioSeries.dll
+/home/sirjalves/Desktop/cursos/dioSeeries/dioSeries/obj/Debug/net5.0/dioSeries.pdb
+/home/sirjalves/Desktop/cursos/dioSeeries/dioSeries/obj/Debug/net5.0/dioSeries.genruntimeconfig.cache
